@@ -55,5 +55,10 @@ Designed originally to help users clear thousands of videos from playlists witho
 ☕ Support
 If this tool saved your wrist from carpal tunnel, consider [buying me a coffee]!
 
+## **DISCLAIMER: USE AT YOUR OWN RISK.**
 
+Playlist Wiper is an automation tool provided "as-is" without warranty of any kind. By using this software, you acknowledge that:
+1.  **You are responsible for your clicks:** The software repeats clicks exactly where you tell it to. If your window moves, or the website layout changes, the software may click the wrong item (e.g., "Delete Account" instead of "Delete Video").
+2.  **Website Terms of Service:** Automating actions on certain websites may violate their Terms of Service. The developer is not responsible for any account bans or restrictions resulting from the misuse of this tool.
+3.  **Always Test First:** We strongly recommend running a test loop of "1 Repeat" before automating large batches.
 
