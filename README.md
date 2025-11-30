@@ -1,4 +1,4 @@
-# Playlist Wiper - Auto Clicker & Macro Recorder
+# Playlist Wiper - Auto Clicker & Macro Recorder [FREE]
 
 <img width="1531" height="864" alt="Screenshot 2025-11-30 144533" src="https://github.com/user-attachments/assets/b409d41e-f6e3-482d-bcac-9af84f84ba2f" />
 
@@ -26,6 +26,7 @@ Designed originally to help users clear thousands of videos from playlists witho
 * **Custom Delays:** Add a "Gap" timer between loops to allow websites to load.  
 * **Always-On-Top:** The compact dark-mode interface stays visible over your browser or game.  
 * **Safety First:** Includes an emergency stop (Drag mouse to top-left corner) and an instant **F3** toggle.
+* **FREE:** No string attached.
 
 **Use Cases:**
 
