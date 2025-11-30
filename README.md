@@ -16,7 +16,7 @@ Tired of clicking the same button 500 times?
 Whether you are cleaning up an old "Watch Later" playlist, mass-deleting emails, or grinding in an idle game, Playlist Wiper does the heavy lifting for you.  
 Designed originally to help users clear thousands of videos from playlists without manual fatigue, this tool has evolved into a lightweight, universal macro recorder. Simply record your mouse steps once, and let the bot repeat them as many times as you need.
 
-** 🚀 Key Features:**
+**🚀 Key Features:**
 
 * **One-Touch Recording:** Press **F2** to start recording clicks and **F2** again to save.  
 * **Smart Automation:** Replays your specific click locations with 100% accuracy.  
