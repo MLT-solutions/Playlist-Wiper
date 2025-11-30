@@ -1,5 +1,7 @@
 # Playlist Wiper - Auto Clicker & Macro Recorder
 
+<img width="1531" height="864" alt="Screenshot 2025-11-30 144533" src="https://github.com/user-attachments/assets/b409d41e-f6e3-482d-bcac-9af84f84ba2f" />
+
 ## Automate repetitive mouse clicks, clean up playlists, and perform bulk actions instantly.
 
 **Playlist Wiper** is a lightweight, dark-mode desktop utility built with Python (Tkinter) to automate repetitive mouse clicking tasks. Originally designed to wipe YouTube playlists, it works universally for any repetitive UI task.
