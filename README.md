@@ -62,3 +62,7 @@ Playlist Wiper is an automation tool provided "as-is" without warranty of any ki
 2.  **Website Terms of Service:** Automating actions on certain websites may violate their Terms of Service. The developer is not responsible for any account bans or restrictions resulting from the misuse of this tool.
 3.  **Always Test First:** We strongly recommend running a test loop of "1 Repeat" before automating large batches.
 
+This project is an independent tool created for educational and productivity purposes. 
+It is not affiliated with, endorsed by, or connected to YouTube, Google, or any other platform mentioned. 
+The term "YouTube" is used solely for descriptive purposes to demonstrate utility.
+
