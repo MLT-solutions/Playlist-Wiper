@@ -58,14 +58,14 @@ Designed originally to help users clear thousands of videos from playlists witho
 ☕ Support
 If this tool saved your wrist from carpal tunnel, consider [buying me a coffee]!
 
-## **DISCLAIMER: USE AT YOUR OWN RISK.**
+## **⚖️ Legal Disclaimer**
 
-Playlist Wiper is an automation tool provided "as-is" without warranty of any kind. By using this software, you acknowledge that:
-1.  **You are responsible for your clicks:** The software repeats clicks exactly where you tell it to. If your window moves, or the website layout changes, the software may click the wrong item (e.g., "Delete Account" instead of "Delete Video").
-2.  **Website Terms of Service:** Automating actions on certain websites may violate their Terms of Service. The developer is not responsible for any account bans or restrictions resulting from the misuse of this tool.
-3.  **Always Test First:** We strongly recommend running a test loop of "1 Repeat" before automating large batches.
+1\. Not Affiliated with YouTube/Google  
+Playlist Wiper is an independent, open-source project. It is not affiliated with, endorsed by, sponsored by, or associated with YouTube, Google LLC, or any of their affiliates. The names "YouTube," "YouTube Watch Later," and related marks are trademarks of Google LLC. They are used in this repository solely for descriptive purposes to demonstrate the software's compatibility and use cases (Nominative Fair Use).  
 
-This project is an independent tool created for educational and productivity purposes. 
-It is not affiliated with, endorsed by, or connected to YouTube, Google, or any other platform mentioned. 
-The term "YouTube" is used solely for descriptive purposes to demonstrate utility.
+2\. Use at Your Own Risk  
+This software is provided "as is" without warranty of any kind. Automation tools interact with third-party websites in ways that may change over time. By using this software, you acknowledge that:
 
+* **You are responsible for your clicks:** The software repeats clicks exactly where you tell it to (screen coordinates). If your window moves, scrolls unexpectedly, or the website layout changes, the software may click the wrong item (e.g., clicking "Delete Account" instead of "Delete Video").  
+* **Website Terms of Service:** Automating actions on certain websites may violate their Terms of Service. The developer (MLT-solutions) is not responsible for any account bans, restrictions, or data loss resulting from the misuse of this tool.  
+* **Verification:** We strongly recommend running a test loop of **1 Repeat** before automating large batches to ensure the clicks are landing correctly.
