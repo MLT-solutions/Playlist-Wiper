@@ -26,7 +26,7 @@ Designed originally to help users clear thousands of videos from playlists witho
 * **Custom Delays:** Add a "Gap" timer between loops to allow websites to load.  
 * **Always-On-Top:** The compact dark-mode interface stays visible over your browser or game.  
 * **Safety First:** Includes an emergency stop (Drag mouse to top-left corner) and an instant **F3** toggle.
-* **FREE:** No string attached.
+* **FREE & Open-source:** No string attached.
 
 **Use Cases:**
 
